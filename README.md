@@ -17,8 +17,9 @@ ARP is trust-based by design — devices accept the first response without verif
 Cisco Packet Tracer (Simulation Mode)
 
 ## Screenshots
-- 
--  before_ping.png` — Empty ARP table
--  after_ping.png` — Populated ARP table post-ping
--  arp_packet_capture.png` — ARP broadcast inspected in Simulation mode
+![Before Ping - Empty ARP Table](Before%20_Ping.jpeg)
+
+![After Ping - Populated ARP Table](After_ping.jpeg)
+
+![ARP Packet Capture](ARP%20packet%20capture.jpeg)
 
