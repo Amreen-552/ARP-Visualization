@@ -22,5 +22,3 @@ Cisco Packet Tracer (Simulation Mode)
 -  after_ping.png` — Populated ARP table post-ping
 -  arp_packet_capture.png` — ARP broadcast inspected in Simulation mode
 
-## Files
-- `arp_visualization.pkt` — Full Packet Tracer project file (open with Cisco Packet Tracer)
