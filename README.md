@@ -17,10 +17,10 @@ ARP is trust-based by design — devices accept the first response without verif
 Cisco Packet Tracer (Simulation Mode)
 
 ## Screenshots
-- `topology.png` — Network layout (3 PCs + switch)
-- `before_ping.png` — Empty ARP table
-- `after_ping.png` — Populated ARP table post-ping
-- `arp_packet_capture.png` — ARP broadcast inspected in Simulation mode
+- 
+-  before_ping.png` — Empty ARP table
+-  after_ping.png` — Populated ARP table post-ping
+-  arp_packet_capture.png` — ARP broadcast inspected in Simulation mode
 
 ## Files
 - `arp_visualization.pkt` — Full Packet Tracer project file (open with Cisco Packet Tracer)
